@@ -1,0 +1,54 @@
+{
+  "tiers": [
+    { "name": "Unranked", "mmr": 0 },
+    { "name": "Pawn-1", "mmr": 1 },
+    { "name": "Pawn-2", "mmr": 500 },
+    { "name": "Pawn-3", "mmr": 580 },
+    { "name": "Pawn-4", "mmr": 660 },
+    { "name": "Pawn-5", "mmr": 740 },
+    { "name": "Pawn-6", "mmr": 820 },
+    { "name": "Pawn-7", "mmr": 900 },
+    { "name": "Pawn-8", "mmr": 980 },
+    { "name": "Pawn-9", "mmr": 1060 },
+    { "name": "Knight-1", "mmr": 1140 },
+    { "name": "Knight-2", "mmr": 1220 },
+    { "name": "Knight-3", "mmr": 1300 },
+    { "name": "Knight-4", "mmr": 1380 },
+    { "name": "Knight-5", "mmr": 1460 },
+    { "name": "Knight-6", "mmr": 1540 },
+    { "name": "Knight-7", "mmr": 1620 },
+    { "name": "Knight-8", "mmr": 1700 },
+    { "name": "Knight-9", "mmr": 1780 },
+    { "name": "Bishop-1", "mmr": 1860 },
+    { "name": "Bishop-2", "mmr": 1940 },
+    { "name": "Bishop-3", "mmr": 2020 },
+    { "name": "Bishop-4", "mmr": 2100 },
+    { "name": "Bishop-5", "mmr": 2180 },
+    { "name": "Bishop-6", "mmr": 2260 },
+    { "name": "Bishop-7", "mmr": 2340 },
+    { "name": "Bishop-8", "mmr": 2420 },
+    { "name": "Bishop-9", "mmr": 2500 },
+    { "name": "Rook-1", "mmr": 2580 },
+    { "name": "Rook-2", "mmr": 2660 },
+    { "name": "Rook-3", "mmr": 2740 },
+    { "name": "Rook-4", "mmr": 2820 },
+    { "name": "Rook-5", "mmr": 2900 },
+    { "name": "Rook-6", "mmr": 2980 },
+    { "name": "Rook-7", "mmr": 3060 },
+    { "name": "Rook-8", "mmr": 3140 },
+    { "name": "Rook-9", "mmr": 3220 },
+    { "name": "King", "mmr": 3300 },
+    { "name": "Queen", "mmr": 3380 }
+  ],
+  "users": [
+    {
+      "name": "cadis",
+      "steamId": "76561198293344973",
+      "aliases": ["c", "cds"]
+    },
+    {
+      "name": "Mio",
+      "steamId": "76561199232209974"
+    }
+  ]
+}
