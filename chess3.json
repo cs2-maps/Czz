@@ -43,16 +43,9 @@
   "users": [
     {
       "name": "cadis",
-      "steamId": "76561198293344973",
-      "aliases": ["c", "cds"]
-    },
-    {
-      "name": "Mio",
-      "steamId": "76561199232209974"
-    },
-    {
-      "name": "z0l2k",
-      "steamId": "76561198088053916"
-    }
+      "steamId": "76561198293344973"    },
+  {
+      "name": "drah19",
+      "steamId": "1147053380"    }
   ]
 }
