@@ -41,8 +41,10 @@
     { "name": "Queen", "mmr": 3380 }
   ],
   "users": [
-    { "name": "cadis", "steamId": "76561198293344973" },
+    { "name": "Cadis", "steamId": "76561198293344973" },
+     { "name": "Saagiigas", "steamId": "76561199087101978" },
     { "name": "drah19", "steamId": "76561199107319108" }
+    
   ],
   "icons": {
     "unranked": "https://cdn.jsdelivr.net/gh/cs2-maps/Czz@main/unranked.png",
