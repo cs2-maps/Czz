@@ -41,13 +41,16 @@
     { "name": "Queen", "mmr": 3380 }
   ],
   "users": [
-    {
-      "name": "cadis",
-      "steamId": "76561198293344973"    
-    },
-  {
-      "name": "drah19",
-      "steamId": "76561199107319108"    
+    { "name": "cadis", "steamId": "76561198293344973" },
+    { "name": "drah19", "steamId": "76561199107319108" }
+  ],
+  "icons": {
+    "unranked": "https://cdn.jsdelivr.net/gh/cs2-maps/Czz@main/unranked.png",
+    "pawn": "https://cdn.jsdelivr.net/gh/cs2-maps/Czz@main/pawn.png",
+    "knight": "https://cdn.jsdelivr.net/gh/cs2-maps/Czz@main/knight.png",
+    "bishop": "https://cdn.jsdelivr.net/gh/cs2-maps/Czz@main/bishop.png",
+    "rook": "https://cdn.jsdelivr.net/gh/cs2-maps/Czz@main/rook.png",
+    "king": "https://cdn.jsdelivr.net/gh/cs2-maps/Czz@main/king.png",
+    "queen": "https://cdn.jsdelivr.net/gh/cs2-maps/Czz@main/queen.png"
   }
-  ]
 }
