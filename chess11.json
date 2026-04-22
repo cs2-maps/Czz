@@ -41,16 +41,15 @@
     { "name": "Queen",     "mmr": 3380 }
   ],
   "users": [
-    { "name": "Rondo",      "steamId": "76561198131755796" },
-    { "name": "—",          "steamId": "76561198918955242" },
-    { "name": "Cadis",      "steamId": "76561198293344973" },
-    { "name": "—",          "steamId": "76561199230448399" },
-    { "name": "—",          "steamId": "76561198105415281" },
-    { "name": "—",          "steamId": "76561198970209787" },
-    { "name": "—",          "steamId": "76561198925644770" },
-    { "name": "Saagiigas",  "steamId": "76561199087101978" },
-    { "name": "manrayoops", "steamId": "76561198373010612" },
-    { "name": "drah19",     "steamId": "76561199107319108" }
+    { "name": "top16",  "steamId": "76561198104147085" },
+    { "name": "top17",  "steamId": "76561198830774270" },
+    { "name": "смучес", "steamId": "76561198021701052" },
+    { "name": "Rondo",  "steamId": "76561198131755796" },
+    { "name": "top20",  "steamId": "76561198918955242" },
+    { "name": "top21",  "steamId": "76561199230448399" },
+    { "name": "Cadis",  "steamId": "76561198293344973" },
+    { "name": "top23",  "steamId": "76561198105415281" },
+    { "name": "top24",  "steamId": "76561198970209787" }
   ],
   "icons": {
     "unranked": "https://cdn.jsdelivr.net/gh/cs2-maps/Czz@main/unranked.png",
