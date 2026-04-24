@@ -41,16 +41,21 @@
     { "name": "Queen",     "mmr": 3380 }
   ],
   "users": [
-    { "name": "top16",  "steamId": "76561198104147085" },
-    { "name": "top17",  "steamId": "76561198830774270" },
+    { "name": "titha", "steamId": "76561198117296888" },
+    { "name": "三重刘德华", "steamId": "76561198078752978" },
+    { "name": "启明山", "steamId": "76561198089993790" },
+    { "name": "是浩存吖", "steamId": "76561198830774270" },
+    { "name": "asd", "steamId": "76561198131755796" },
     { "name": "смучес", "steamId": "76561198021701052" },
-    { "name": "Rondo",  "steamId": "76561198131755796" },
-    { "name": "top20",  "steamId": "76561198918955242" },
-    { "name": "top21",  "steamId": "76561199230448399" },
-    { "name": "Cadis",  "steamId": "76561198293344973" },
-    { "name": "top23",  "steamId": "76561198105415281" },
-    { "name": "top24",  "steamId": "76561198970209787" }
+    { "name": "抖音.天天宝典", "steamId": "76561198408236507" },
+    { "name": "起风了zywoo", "steamId": "76561198918955242" },
+    { "name": "Dym", "steamId": "76561199230448399" },
+    { "name": "阿里阿多玛玛哈哈", "steamId": "76561198970209787" },
+    { "name": "Cadis", "steamId": "76561198293344973" },
+    { "name": "人类君", "steamId": "76561198915033903" },
+    { "name": "---xiao疯子", "steamId": "76561198105415281" }
   ],
+
   "icons": {
     "unranked": "https://cdn.jsdelivr.net/gh/cs2-maps/Czz@main/unranked.png",
     "pawn":     "https://cdn.jsdelivr.net/gh/cs2-maps/Czz@main/pawn.png",
