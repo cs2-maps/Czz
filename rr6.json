@@ -62,9 +62,9 @@
       "steamId": "76561198080270150"
     },
     {
-      "kickUsername": "",
+      "kickUsername": "mrsonikoo",
       "kickUserId": "",
-      "steamId": "76561198918955242"
+      "steamId": "76561198785561726"
     },
     {
       "kickUsername": "Rektous",
@@ -86,6 +86,7 @@
       "kickUserId": "",
       "steamId": "76561198054502552"
     }
+    
   ],
   "icons": {
     "unranked": "https://cdn.jsdelivr.net/gh/cs2-maps/Czz@main/unranked.png",
